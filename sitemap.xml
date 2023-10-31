@@ -2,8 +2,30 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/posts/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://example.org/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://shentongguangda.github.io/categories/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/trade/</loc><lastmod>2023-09-12T05:15:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://shentongguangda.github.io/categories/%E4%BA%A4%E6%98%93%E6%89%80/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/about/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/trade/%E5%B8%81%E5%AE%89/</loc><lastmod>2023-09-12T05:15:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://shentongguangda.github.io/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/tags/personal/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/precommitments/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/tags/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/apple/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/tags/language-models/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/tags/machine-learning/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/posts/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/survey/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/categories/tech/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/apple/why-lms/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/why-lms/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/survey/why-lms/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/categories/not-a-post/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/todo/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/tags/wip/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/categories/ctf/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/apple/rarctf-2021-the-mound/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/rarctf-2021-the-mound/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/survey/rarctf-2021-the-mound/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/tags/pwn/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shentongguangda.github.io/tags/writeup/</loc><lastmod>2023-10-31T15:48:45&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>

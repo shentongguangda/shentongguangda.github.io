@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apples on 第一桶鲸网站</title>
+    <link>https://shentongguangda.github.io/apple/</link>
+    <description>Recent content in Apples on 第一桶鲸网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>a18756423535@126.com (第一桶鲸)</managingEditor>
+    <webMaster>a18756423535@126.com (第一桶鲸)</webMaster>
+    <lastBuildDate>Sun, 27 Nov 2022 12:00:00 +0800</lastBuildDate>
+    <atom:link href="https://shentongguangda.github.io/apple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Language Models?</title>
+      <link>https://shentongguangda.github.io/apple/why-lms/</link>
+      <pubDate>Sun, 27 Nov 2022 12:00:00 +0800</pubDate><author>a18756423535@126.com (第一桶鲸)</author>
+      <guid>https://shentongguangda.github.io/apple/why-lms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Getting things wrong: How I spent 24-hours on a beginner&#39;s CTF pwn</title>
+      <link>https://shentongguangda.github.io/apple/rarctf-2021-the-mound/</link>
+      <pubDate>Mon, 09 Aug 2021 21:19:12 +0800</pubDate><author>a18756423535@126.com (第一桶鲸)</author>
+      <guid>https://shentongguangda.github.io/apple/rarctf-2021-the-mound/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

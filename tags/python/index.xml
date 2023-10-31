@@ -1,0 +1,83 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>python - Tag - 第一桶鲸网站</title>
+        <link>https://shentongguangda.github.io/tags/python/</link>
+        <description>python - Tag - 第一桶鲸网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>a18756423535@126.com (第一桶鲸)</managingEditor>
+            <webMaster>a18756423535@126.com (第一桶鲸)</webMaster><lastBuildDate>Sun, 02 Oct 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://shentongguangda.github.io/tags/python/" rel="self" type="application/rss+xml" /><item>
+    <title>Multiprocessing and &lt;code&gt;random()&lt;/code&gt;</title>
+    <link>https://shentongguangda.github.io/multiprocessing-and-random/</link>
+    <pubDate>Sun, 02 Oct 2022 00:00:00 &#43;0800</pubDate>
+    <author>152334H</author>
+    <guid>https://shentongguangda.github.io/multiprocessing-and-random/</guid>
+    <description><![CDATA[<p>Let&rsquo;s say, for <a href="https://huggingface.co/blog/stable_diffusion" target="_blank" rel="noopener noreffer ">some odd reason</a>, you&rsquo;re hosting a Python service that:</p>
+<ol>
+<li>takes requests that run large computations based on a randomly generated number (a &ldquo;seed&rdquo;)</li>
+<li>spreads work across multiple workers to handle many requests</li>
+</ol>
+<p>Then, it&rsquo;s likely you&rsquo;ll introduce a subtle randomness bug that leads to duplicate seeds appearing. Let me explain:</p>]]></description>
+</item>
+<item>
+    <title>Multiprocessing and &lt;code&gt;random()&lt;/code&gt;</title>
+    <link>https://shentongguangda.github.io/survey/multiprocessing-and-random/</link>
+    <pubDate>Sun, 02 Oct 2022 00:00:00 &#43;0800</pubDate>
+    <author>152334H</author>
+    <guid>https://shentongguangda.github.io/survey/multiprocessing-and-random/</guid>
+    <description><![CDATA[<p>Let&rsquo;s say, for <a href="https://huggingface.co/blog/stable_diffusion" target="_blank" rel="noopener noreffer ">some odd reason</a>, you&rsquo;re hosting a Python service that:</p>
+<ol>
+<li>takes requests that run large computations based on a randomly generated number (a &ldquo;seed&rdquo;)</li>
+<li>spreads work across multiple workers to handle many requests</li>
+</ol>
+<p>Then, it&rsquo;s likely you&rsquo;ll introduce a subtle randomness bug that leads to duplicate seeds appearing. Let me explain:</p>]]></description>
+</item>
+<item>
+    <title>Multiprocessing and &lt;code&gt;random()&lt;/code&gt;</title>
+    <link>https://shentongguangda.github.io/trade/multiprocessing-and-random/</link>
+    <pubDate>Sun, 02 Oct 2022 00:00:00 &#43;0800</pubDate>
+    <author>152334H</author>
+    <guid>https://shentongguangda.github.io/trade/multiprocessing-and-random/</guid>
+    <description><![CDATA[<p>Let&rsquo;s say, for <a href="https://huggingface.co/blog/stable_diffusion" target="_blank" rel="noopener noreffer ">some odd reason</a>, you&rsquo;re hosting a Python service that:</p>
+<ol>
+<li>takes requests that run large computations based on a randomly generated number (a &ldquo;seed&rdquo;)</li>
+<li>spreads work across multiple workers to handle many requests</li>
+</ol>
+<p>Then, it&rsquo;s likely you&rsquo;ll introduce a subtle randomness bug that leads to duplicate seeds appearing. Let me explain:</p>]]></description>
+</item>
+<item>
+    <title>@cache without @cache</title>
+    <link>https://shentongguangda.github.io/encapsulating-dp/</link>
+    <pubDate>Sun, 28 Aug 2022 08:02:23 &#43;0100</pubDate>
+    <author>152334H</author>
+    <guid>https://shentongguangda.github.io/encapsulating-dp/</guid>
+    <description><![CDATA[<p><a href="https://cs.stackexchange.com/a/99517" target="_blank" rel="noopener noreffer ">Memoization</a> is a part of the standard toolkit for, &ldquo;things I can use to solve the algorithm question in my next job interview&rdquo;. Most of the time, I like to use <a href="https://docs.python.org/3/library/functools.html#functools.cache" target="_blank" rel="noopener noreffer "><code>functools.cache</code></a> for this:</p>
+<figure><a class="lightgallery" href="/encapsulating-dp/cts_lru_cache.png" title="/encapsulating-dp/cts_lru_cache.png" data-thumbnail="/encapsulating-dp/cts_lru_cache.png" data-sub-html="<h2>From @gf_256</h2>">
+        
+    </a><figcaption class="image-caption">From @gf_256</figcaption>
+    </figure>]]></description>
+</item>
+<item>
+    <title>@cache without @cache</title>
+    <link>https://shentongguangda.github.io/survey/encapsulating-dp/</link>
+    <pubDate>Sun, 28 Aug 2022 08:02:23 &#43;0100</pubDate>
+    <author>152334H</author>
+    <guid>https://shentongguangda.github.io/survey/encapsulating-dp/</guid>
+    <description><![CDATA[<p><a href="https://cs.stackexchange.com/a/99517" target="_blank" rel="noopener noreffer ">Memoization</a> is a part of the standard toolkit for, &ldquo;things I can use to solve the algorithm question in my next job interview&rdquo;. Most of the time, I like to use <a href="https://docs.python.org/3/library/functools.html#functools.cache" target="_blank" rel="noopener noreffer "><code>functools.cache</code></a> for this:</p>
+<figure><a class="lightgallery" href="/survey/encapsulating-dp/cts_lru_cache.png" title="/survey/encapsulating-dp/cts_lru_cache.png" data-thumbnail="/survey/encapsulating-dp/cts_lru_cache.png" data-sub-html="<h2>From @gf_256</h2>">
+        
+    </a><figcaption class="image-caption">From @gf_256</figcaption>
+    </figure>]]></description>
+</item>
+<item>
+    <title>@cache without @cache</title>
+    <link>https://shentongguangda.github.io/trade/encapsulating-dp/</link>
+    <pubDate>Sun, 28 Aug 2022 08:02:23 &#43;0100</pubDate>
+    <author>152334H</author>
+    <guid>https://shentongguangda.github.io/trade/encapsulating-dp/</guid>
+    <description><![CDATA[<p><a href="https://cs.stackexchange.com/a/99517" target="_blank" rel="noopener noreffer ">Memoization</a> is a part of the standard toolkit for, &ldquo;things I can use to solve the algorithm question in my next job interview&rdquo;. Most of the time, I like to use <a href="https://docs.python.org/3/library/functools.html#functools.cache" target="_blank" rel="noopener noreffer "><code>functools.cache</code></a> for this:</p>
+<figure><a class="lightgallery" href="/trade/encapsulating-dp/cts_lru_cache.png" title="/trade/encapsulating-dp/cts_lru_cache.png" data-thumbnail="/trade/encapsulating-dp/cts_lru_cache.png" data-sub-html="<h2>From @gf_256</h2>">
+        
+    </a><figcaption class="image-caption">From @gf_256</figcaption>
+    </figure>]]></description>
+</item>
+</channel>
+</rss>

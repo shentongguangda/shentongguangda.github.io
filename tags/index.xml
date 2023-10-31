@@ -1,8 +1,56 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - 我的全新 Hugo 网站</title>
-        <link>http://example.org/tags/</link>
-        <description>Tags - Tag - 我的全新 Hugo 网站</description>
+        <title>Tags - Tag - 第一桶鲸网站</title>
+        <link>https://shentongguangda.github.io/tags/</link>
+        <description>Tags - Tag - 第一桶鲸网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>a18756423535@126.com (第一桶鲸)</managingEditor>
-            <webMaster>a18756423535@126.com (第一桶鲸)</webMaster><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>a18756423535@126.com (第一桶鲸)</webMaster><lastBuildDate>Sat, 19 Aug 2023 18:39:24 &#43;0800</lastBuildDate><atom:link href="https://shentongguangda.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>personal</title>
+    <link>https://shentongguangda.github.io/tags/personal/</link>
+    <pubDate>Sat, 19 Aug 2023 18:39:24 &#43;0800</pubDate>
+    <author>第一桶鲸</author>
+    <guid>https://shentongguangda.github.io/tags/personal/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>language models</title>
+    <link>https://shentongguangda.github.io/tags/language-models/</link>
+    <pubDate>Sun, 27 Nov 2022 12:00:00 &#43;0800</pubDate>
+    <author>第一桶鲸</author>
+    <guid>https://shentongguangda.github.io/tags/language-models/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>machine learning</title>
+    <link>https://shentongguangda.github.io/tags/machine-learning/</link>
+    <pubDate>Sun, 27 Nov 2022 12:00:00 &#43;0800</pubDate>
+    <author>第一桶鲸</author>
+    <guid>https://shentongguangda.github.io/tags/machine-learning/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>WIP</title>
+    <link>https://shentongguangda.github.io/tags/wip/</link>
+    <pubDate>Fri, 26 Aug 2022 04:14:08 &#43;0100</pubDate>
+    <author>第一桶鲸</author>
+    <guid>https://shentongguangda.github.io/tags/wip/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>pwn</title>
+    <link>https://shentongguangda.github.io/tags/pwn/</link>
+    <pubDate>Mon, 09 Aug 2021 21:19:12 &#43;0800</pubDate>
+    <author>第一桶鲸</author>
+    <guid>https://shentongguangda.github.io/tags/pwn/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>writeup</title>
+    <link>https://shentongguangda.github.io/tags/writeup/</link>
+    <pubDate>Mon, 09 Aug 2021 21:19:12 &#43;0800</pubDate>
+    <author>第一桶鲸</author>
+    <guid>https://shentongguangda.github.io/tags/writeup/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
